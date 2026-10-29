@@ -1,5 +1,3 @@
-## Reame (plis)
-
 ## Hola
 ## Soy Óscar Moreno y soy Concept Artist y animador
 
